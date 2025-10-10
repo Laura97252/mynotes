@@ -1,5 +1,4 @@
 # mynotes
- [My notes](comp1238.md)
 
 ## Links
 - [D2L](https://learn.georgebrown.ca)
